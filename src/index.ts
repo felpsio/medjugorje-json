@@ -9,4 +9,4 @@ type Message = {
 };
 
 // Export the messages with the correct type
-export const medjugorjeMessages: Message[] = messages;
+export default messages as Message[];
