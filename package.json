@@ -2,10 +2,14 @@
   "name": "medjugorje-json",
   "module": "src/index.ts",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of Medjugorje messages in JSON format.",
   "main": "src/index.js",
-  "keywords": ["medjugorje", "messages", "spirituality"],
+  "keywords": [
+    "medjugorje",
+    "messages",
+    "spirituality"
+  ],
   "author": "felpsio",
   "license": "MIT",
   "devDependencies": {
@@ -18,5 +22,9 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felpsio/medjugorje-json.git"
   }
 }
