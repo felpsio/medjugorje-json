@@ -1,0 +1,22 @@
+{
+  "name": "medjugorje-json",
+  "module": "src/index.ts",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "A collection of Medjugorje messages in JSON format.",
+  "main": "src/index.js",
+  "keywords": ["medjugorje", "messages", "spirituality"],
+  "author": "felpsio",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.27",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
