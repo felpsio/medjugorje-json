@@ -1,10 +1,10 @@
 {
   "name": "medjugorje-json",
-  "module": "src/index.ts",
+  "module": "dist/index.ts",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of Medjugorje messages in JSON format.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "keywords": [
     "medjugorje",
     "messages",
